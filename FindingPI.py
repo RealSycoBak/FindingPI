@@ -44,11 +44,3 @@ avg = sum([pi_two(100) for i in range(1000)])/1000
 print(avg)
 
 print(pi_one(.0001))
-
-rows = 0
-for i in range(1, 4):
-    for j in range(i):
-        print(i, j)
-        rows+=1
-
-print(rows)
