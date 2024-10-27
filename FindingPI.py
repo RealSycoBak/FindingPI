@@ -1,7 +1,5 @@
 import random
 
-import random
-
 def pi_one(e):
     """ returns estimated value of pi using a while loop
         input e: float (the acceptable difference between estimated pi and actual pi)
